@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\UML and Inheritance Practice\UML and Inheritance Practice\bin\Debug\UML and Inheritance Practice.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\UML and Inheritance Practice\UML and Inheritance Practice\bin\Debug\UML and Inheritance Practice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\UML and Inheritance Practice\UML and Inheritance Practice\bin\Debug\UML and Inheritance Practice.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\UML and Inheritance Practice\UML and Inheritance Practice\obj\Debug\UML and Inheritance Practice.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\UML and Inheritance Practice\UML and Inheritance Practice\obj\Debug\UML and Inheritance Practice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\UML and Inheritance Practice\UML and Inheritance Practice\obj\Debug\UML and Inheritance Practice.pdb
